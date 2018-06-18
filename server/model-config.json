@@ -41,6 +41,6 @@
   },
   "address": {
     "dataSource": "db",
-    "public": false
+    "public": true
   }
 }

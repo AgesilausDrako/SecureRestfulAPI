@@ -1,5 +1,6 @@
 {
   "name": "address",
+  "plural": "addresses",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
